@@ -1,5 +1,7 @@
 # Exercise "Lichterkette"
 
+Created by mstrommer, solved by theresanother1. 
+
 ## Problem Description
 
 Eine Baumarktkette möchte die Wirkung von LED-Lichterketten testen und bittet Sie daher, eine Simulationssoftware in “C” zu schreiben.
